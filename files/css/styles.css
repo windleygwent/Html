@@ -10,4 +10,6 @@ h1 {
 p {
   font-family: courier;
   color: black;
+  border: 2px solid white;
+  font-size: 20px
 }
