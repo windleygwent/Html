@@ -10,7 +10,7 @@ h1 {
 p {
   font-family: courier;
   color: black;
-  border: 5px solid white;
+  outline: thick ridge white;
   font-size: 20px;
   margin: 50px;
 }
