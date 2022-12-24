@@ -15,3 +15,6 @@ p {
   font-size: 20px;
   margin: 50px;
 }
+p.style {
+  font-family: Sofia, sans-serif;
+}
