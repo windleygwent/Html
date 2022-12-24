@@ -7,7 +7,7 @@ h1 {
   text-align: center;
 }
 
-p {
+p.normal {
   font-family: "Times New Roman", serif;
   text-shadow: 3px 3px 3px #ababab;
   color: black;
