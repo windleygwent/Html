@@ -9,6 +9,7 @@ h1 {
 
 p {
   font-family: "Times New Roman", serif;
+  text-shadow: 3px 3px 3px #ababab;
   color: black;
   outline: thick ridge pink;
   font-size: 20px;
