@@ -1,12 +1,10 @@
 body {
   background-color: lightblue;
 }
-
 h1 {
   color: white;
   text-align: center;
 }
-
 p.normal {
   font-family: "Times New Roman", serif;
   text-shadow: 3px 3px 3px #ababab;
@@ -15,7 +13,3 @@ p.normal {
   font-size: 20px;
   margin: 50px;
 }
-
-
-
-
