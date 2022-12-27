@@ -30,7 +30,7 @@ li a:hover {
 }
 .box {
   float:left;
-  width:48%;
+  width:45%;
   margin:2px;
   padding:2px;
   border-radius:5px;
@@ -41,3 +41,4 @@ li a:hover {
   clear: both;
   display: table;
 }
+h4 {text-align:center;}
