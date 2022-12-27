@@ -33,6 +33,9 @@ li a:hover {
   width: 48%;
   padding: 2px;
   margin: 3px;
+  border: 0.5px solid black;
+  border-radius:5px;
+  background-color:black;
 }
 .clearfix::after {
   content: "";
