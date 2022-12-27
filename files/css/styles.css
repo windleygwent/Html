@@ -31,7 +31,7 @@ li a:hover {
 .box {
   float:left;
   width:40%;
-  padding:3px;
+  padding:50px;
   margin:2px;
 }
 .clearfix::after {
