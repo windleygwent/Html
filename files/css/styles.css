@@ -33,7 +33,8 @@ li a:hover {
   float:left;
   width:49%;
   padding:50px;
-  ]
+  margin:2px;
+}
 .clearfix::after {
   content: "";
   clear: both;
