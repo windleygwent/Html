@@ -34,6 +34,7 @@ li a:hover {
   margin:2px;
   padding:50px;
   border-radius:5px;
+  text-align: centre;
 }
 .clearfix::after {
   content: "";
