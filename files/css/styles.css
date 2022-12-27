@@ -41,6 +41,5 @@ li a:hover {
   display: table;
 }
 img {
-  height:auto;
-  width: auto;
+  width: 100%;
 }
