@@ -1,3 +1,28 @@
-body {background-color: lightblue;}
-h1 {color: white;text-align: center;}
+body {background-color: white;}
+h1 {color: black;text-align: center;}
 p.normal {font-family: "Times New Roman", serif;text-shadow: 3px 3px 3px #ababab;color: black;outline: thick ridge pink;font-size: 20px;margin: 50px;}
+p.style {
+  font-family: "Sofia", sans-serif;
+  font-size: 30px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  background-color: black;
+  overflow: hidden;
+}
+li {
+  float: left;
+
+  }
+li a {
+  text-decoration: none;
+  display: block;
+  padding: 14px 16px;
+  color: white;
+  background-color: black;
+  }
+li a:hover {
+  background-color:#333;
+  }
