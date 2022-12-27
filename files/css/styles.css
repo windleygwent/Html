@@ -29,9 +29,10 @@ li a:hover {
   box-sizing: border-box;
 }
 .box {
-  float:left;
-  width:48%;
-  padding:2px;
+  float: right;
+  width: 48%;
+  padding: 2px;
+  margin: 3px;
 }
 .clearfix::after {
   content: "";
