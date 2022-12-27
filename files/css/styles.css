@@ -30,7 +30,7 @@ li a:hover {
 }
 .box {
   float:left;
-  width:40%;
+  width:45%;
   margin:2px;
   border-radius:5px;
 }
@@ -40,6 +40,6 @@ li a:hover {
   display: table;
 }
 .poster {
-  width:100%;
+  width:44%;
   padding:2px;
 }
