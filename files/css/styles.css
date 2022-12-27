@@ -29,7 +29,7 @@ li a:hover {
 * {
   box-sizing: border-box;
 }
-.box .poster {
+.box {
   float:left;
   width:40%;
   padding:50px;
@@ -40,6 +40,6 @@ li a:hover {
   clear: both;
   display: table;
 }
-img {
-  width: 100%;
+.poster {
+  width:100%;
 }
