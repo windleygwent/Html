@@ -11,9 +11,37 @@ p.style {
   font-family: "Sofia", sans-serif;
   font-size: 30px;
 }
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  background-color: black;
+  overflow: hidden;
+}
+li {
+  float: left;
+
+  }
+li a {
+  text-decoration: none;
+  display: block;
+  padding: 14px 16px;
+  color: white;
+  background-color: black;
+  }
+li a:hover {
+  background-color:#333;
+  }
 </style>
 </head>
 <body>
+<div>
+<ul>
+  <li><a href="../" target="_blank">Home</a></li>
+  <li><a href="contact.html" target="_blank">Contact</a></li>
+  <li><a href="about-us.html" target="_blank">About Us</a></li>
+</ul>
+</div>
 <include src="extra/header.html"></include>
 <h1>My first demo site</h1>
 <p class="normal">This is a paragraph</p>
