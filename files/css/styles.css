@@ -28,11 +28,11 @@ li a:hover {
 * {
   box-sizing: border-box;
 }
-.box .poster {
+.box {
   float:left;
-  width:45%;
+  width:48%;
   margin:2px;
-  padding:50px;
+  padding:2px;
   border-radius:5px;
   text-align: center;
 }
@@ -41,4 +41,3 @@ li a:hover {
   clear: both;
   display: table;
 }
-img {width: 40%}
