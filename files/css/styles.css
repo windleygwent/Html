@@ -26,3 +26,9 @@ li a {
 li a:hover {
   background-color:#333;
   }
+* {box-sizing: border-box;}
+.box {
+  float:left;
+  width:49%;
+  padding:50px;
+  ]
