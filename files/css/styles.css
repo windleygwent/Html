@@ -1,6 +1,5 @@
 body {background-color: white;}
 h1 {color: black;text-align: center;}
-p.normal {font-family: "Times New Roman", serif;text-shadow: 3px 3px 3px #ababab;color: black;outline: thick ridge pink;font-size: 20px;margin: 50px;}
 p.style {
   font-family: "Sofia", sans-serif;
   font-size: 30px;
