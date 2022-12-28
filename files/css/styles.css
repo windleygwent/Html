@@ -44,3 +44,6 @@ li a:hover {
 }
 h4 {text-align:center;color:white;}
 img {width:100%;border-radius:5px;}
+@media only screen and (max-width:600px) {
+  .box {width:48%;}
+}
