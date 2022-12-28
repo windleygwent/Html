@@ -25,7 +25,7 @@ li a:hover {
   box-sizing: border-box;
 }
 .box {
-  float: right;
+  float: left;
   width: 24%;
   padding: 2px;
   margin: 3px;
@@ -41,5 +41,5 @@ li a:hover {
 h4 {text-align:center;color:white;}
 img {width:100%;border-radius:5px;}
 @media only screen and (max-width:600px) {
-  .box {width:48%;}
+  .box {width:48%;float:right;}
 }
