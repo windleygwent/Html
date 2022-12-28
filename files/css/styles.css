@@ -41,7 +41,7 @@ li a:hover {
 h4 {text-align:center;color:white;}
 img {width:100%;border-radius:5px;}
 @media only screen and (max-width:600px) {
-  .box {width:48%;float:right;}
+  .box {width:48%;float:right;margin:2px;}
 }
 a:link {
   text-decoration:none;
