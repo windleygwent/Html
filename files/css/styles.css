@@ -1,9 +1,5 @@
 body {background-color: white;}
 h1 {color: black;text-align: center;}
-p.style {
-  font-family: "Sofia", sans-serif;
-  font-size: 30px;
-}
 ul {
   list-style-type: none;
   padding: 0;
